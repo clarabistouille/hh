@@ -1,6 +1,6 @@
 ---
 title: "première page"
 order: 1
-in_menu: true
+hide_menu: false
 ---
 1  menu ? 
