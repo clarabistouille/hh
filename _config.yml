@@ -1,4 +1,4 @@
-remote_theme: scribouilli/mimoza@ordre-pages
+remote_theme: scribouilli/mimoza
 collections:
   projects:
     output: true
