@@ -1,6 +1,6 @@
 ---
-title: "3"
+title: "accueil"
 order: 3
-in_menu: false
+in_menu: true
 ---
-3  
+3 
