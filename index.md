@@ -1,6 +1,6 @@
 ---
 title: "accueil"
 order: 3
-in_menu: true
+hide_menu: false
 ---
 3 
