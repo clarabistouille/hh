@@ -1,6 +1,6 @@
 ---
 title: "contact"
 order: 4
-in_menu: true
+hide_menu: true
 ---
 4 
