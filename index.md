@@ -1,6 +1,5 @@
 ---
 title: "accueil"
-order: 3
-hide_menu: false
+order: 1
 ---
 3 
