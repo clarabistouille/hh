@@ -2,3 +2,4 @@ remote_theme: scribouilli/mimoza@pages-dans-menu
 collections:
   projects:
     output: true
+baseurl: /hh
